@@ -1,6 +1,6 @@
 ### Hi there 👋
- 🔭 I’m currently working on personal project
- 🌱 I’m currently learning React and Vue
+ - 🔭 I’m currently working on personal project
+ - 🌱 I’m currently learning React and Vue
 <!--
 **aknanta/aknanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
